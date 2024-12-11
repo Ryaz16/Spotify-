@@ -5,7 +5,7 @@ Click Here for [PDF-File](https://github.com/Ryaz16/Spotify-/blob/main/Presentat
 
 Click Here for [BI-Report](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Dashboard/blob/main/Spotify-Viz.pbix)
 
-Click Here for [Previous EDA on Dataset](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Data-Analysis)
+Click Here for [Previous EDA on Dataset](https://github.com/Ryaz16/Spotify-/blob/main/spotify-2023.csv)
 
 
 ## Introduction
@@ -45,7 +45,7 @@ I will be creating an exploratory analysis by creating data visualizations and c
 | speechiness | How much of a song is spoken word |
 | track_popularity |  How popular a song is (as of time of data collection) |
 
-**Link to Dataset:** https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022
+**Link to Dataset:** (https://github.com/Ryaz16/Spotify-/blob/main/spotify-2023.csv)
 
 
 ## Steps Covered
