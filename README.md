@@ -3,14 +3,14 @@ About Exploratory Data Analysis on "Top Songs of Spotify" between 2010-2022. Thi
 
 Click Here for [PDF-File](https://github.com/Ryaz16/Spotify-/blob/main/Presentation1.pdf) 
 
-Click Here for [BI-Report](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Dashboard/blob/main/Spotify-Viz.pbix)
+Click Here for [BI-Report](https://github.com/Ryaz16/Spotify-/blob/main/Sp.png)
 
 Click Here for [Previous EDA on Dataset](https://github.com/Ryaz16/Spotify-/blob/main/spotify-2023.csv)
 
 
 ## Introduction
 
-![Banner](https://logosmarcas.net/wp-content/uploads/2020/09/Spotify-Emblema.png)
+![Banner](https://github.com/Ryaz16/Spotify-/blob/main/Sp.png)
 
 Spotify is a digital music streaming service that provides users access to over 82 million songs, podcasts and audio books. The app was developed by Daniel Ek and Martin Lorenzton in 2006. This app has become a family name over the years and boasts over 457 million subscribers as of 2022, rivaling SoundCloud and Apple Music. 
 
